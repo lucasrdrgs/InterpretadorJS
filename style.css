@@ -1,0 +1,36 @@
+body {
+	background-color: #feecfa;
+}
+
+p, h1, h2, h3, h4, input, div, span, label, li, a {
+	font-family: 'Segoe UI Light', Segoe, sans-serif;
+}
+
+textarea {
+	white-space: pre-wrap;
+	font-family: Consolas, monaco, monospace;
+	width: 350px;
+	height: 400px;
+}
+
+#cod {
+	font-size: 10pt;
+	width: 450px;
+	height: 392px;
+	white-space: pre;
+}
+
+#out {
+	font-size: 12pt;
+}
+
+#dev {
+	font-size: 8pt;
+	width: 300px; height: 400px;
+}
+
+button {
+	margin-left: -1px;
+	width: 806px;
+	height: 30px;
+}

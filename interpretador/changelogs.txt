@@ -1,0 +1,8 @@
+Indev1: Testes com diferentes estilos de análise léxica.
+Indev2: Adicionado um parser de expressões matemáticas.
+Indev3: Adicionado um lexer.
+Indev4: Textbox melhorada e código dividido em diferentes arquivos (ver https://c5k.ddns.net:8788/pseudocodigodev/interpretador).
+Indev5: Adicionado um parser (ainda em desenvolvimento).
+Indev5.1: Parser agora conta com definições de constantes e variáveis.
+Indev6: Parser agora conta com as instruções ESCREVA (incluindo concatenação), LEIA e LIMPA.
+2.0 Beta: Expressões matemáticas e lógicas adicionadas!
