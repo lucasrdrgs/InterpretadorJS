@@ -4,7 +4,7 @@ Esse programa é uma implementação em JavaScript de um modelo de pseudocódigo
 ## Lembrete
 O código foi feito em menos de uma semana, portanto é incompleto e talvez seja difícil de entender. Sinta-se livre para submeter um pull request. **O projeto foi descontinuado**.
 
-## Exemplo de um programa simples para multiplicar dois números:
+### Exemplo de um programa simples para multiplicar dois números:
 ```
 ALGORITMO multiplicar
 VARIAVEIS
@@ -18,7 +18,7 @@ INICIO
 	ESCREVA "X multiplicado por Y é igual a " + z + "\n";
 FIM
 ```
-## Exemplo de um programa que verifica se um número é par:
+### Exemplo de um programa que verifica se um número é par:
 ```
 ALGORITMO multiplicar
 VARIAVEIS
