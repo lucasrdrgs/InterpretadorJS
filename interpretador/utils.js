@@ -80,7 +80,7 @@ function fixTareas()
     $('.lines')[0].style.height = '392px';
     $('.linedwrap')[0].style.height = '392px';
     $('.linedtextarea')[0].style.height = '392px';
-	$('#cod')[0].style.height = '99%';
+    $('#cod')[0].style.height = '99%';
     if(DEBUG) $('#dev')[0].style.visibility = 'visible';
 }
 
